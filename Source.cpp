@@ -3,3 +3,4 @@ void main(void)
 {
 	std::cout << "farshid";
 }
+
